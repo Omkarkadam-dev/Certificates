@@ -9,6 +9,6 @@
 | TryHackMe Cyber Security 101 | TryHackMe | Oct 2025 | [Download Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OFBU9F9LRP.pdf) |
 | Cisco Introduction to Cybersecurity | Cisco Networking Academy | Nov 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Intro-Cybersecurity.pdf) |
 | Palo Alto Network Security Fundamentals | Palo Alto Networks | Dec 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Network%20security%20fundamentals.pdf) |
-| Palo Alto Cloud Security Fundamentals | Palo Alto Networks | Dec 2025 | [Download Certificate]() |
+| Palo Alto Cloud Security Fundamentals | Palo Alto Networks | Dec 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Cloud%20security%20fundamentals.pdf) |
 
 > Verified skills: Networking, Firewall basics, Traffic logs, NAT, VLANs, Linux, Recon, Wireshark
