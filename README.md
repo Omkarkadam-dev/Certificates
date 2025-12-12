@@ -10,5 +10,7 @@
 | Cisco Introduction to Cybersecurity | Cisco Networking Academy | Nov 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Intro-Cybersecurity.pdf) |
 | Palo Alto Network Security Fundamentals | Palo Alto Networks | Dec 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Network%20security%20fundamentals.pdf) |
 | Palo Alto Cloud Security Fundamentals | Palo Alto Networks | Dec 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Cloud%20security%20fundamentals.pdf) |
+| MMicrosoft AZ-500: Azure Security Technologies | Microsoft | Dec 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/Microsoft-Azure%20500.pdf) |
+| Microsoft AZ-700: Designing & Implementing Azure Networking | Microsoft | Dec 2025 | [Download Certificate](https://github.com/Omkarkadam-dev/Certificates/raw/main/microsoft-Azure%20700.pdf) |
 
 > Verified skills: Networking, Firewall basics, Traffic logs, NAT, VLANs, Linux, Recon, Wireshark
